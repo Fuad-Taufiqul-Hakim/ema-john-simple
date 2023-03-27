@@ -1,0 +1,14 @@
+.cart {
+  background: rgba(255, 153, 0, 0.3);
+  padding: 25px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+.cart p {
+  font-size: 17px;
+}
+.cart-title {
+  font-weight: 400;
+  font-size: 25px;
+}
